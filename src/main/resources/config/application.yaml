@@ -11,3 +11,8 @@ flyway:
     - "zmon_eventlog"
   baseline-on-migrate: true
   baseline-version: 1
+opentracing:
+  spring:
+    cloud:
+      websocket:
+        enabled: false
