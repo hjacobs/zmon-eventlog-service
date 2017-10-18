@@ -54,7 +54,7 @@
         <dependency>
             <groupId>com.instana</groupId>
             <artifactId>instana-java-opentracing</artifactId>
-            <version>0.100.500</version>
+            <version>opentracing-poc</version>
         </dependency>
     </dependencies>
 
